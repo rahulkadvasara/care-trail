@@ -82,7 +82,7 @@ The system cannot function without Qdrant.
 ---
 
 ## Project Structure
-
+```
 caretrail-qdrant/
 ├── main.py
 ├── README.md
@@ -99,7 +99,7 @@ caretrail-qdrant/
 │   └── embedder.py
 └── utils/
     └── chunker.py
-
+```
 ---
 
 ## Example Interaction
